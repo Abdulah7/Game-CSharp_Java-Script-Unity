@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Cartoon Soldier\Scripts\Misc\health.js">
+    <Files>
+      <File FileName="Assets\Tutorial 5\Tutorial 5\Scripts\SFX\sound.js" Line="10" Column="31" />
+      <File FileName="Assets\Tutorial 5\Tutorial 5\Scripts\AnimationSetup\FIRE.js" Line="1" Column="1" />
+      <File FileName="Assets\Cartoon Soldier\Scripts\Misc\health.js" Line="46" Column="46" />
+      <File FileName="Assets\Cartoon Soldier\Scripts\soldier\weaponController.js" Line="1" Column="1" />
+      <File FileName="Assets\GUITextHandler.js" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial 5\Tutorial 5\Aim_sight.js" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial 5\Tutorial 5\Scripts\SFX\sound.js" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial 5\Tutorial 5\Scripts\Player\RaycastShooting.js" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial 5\Tutorial 5\AISimple.js" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial 5\Tutorial 5\CharacterMotorV2.js" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial 5\Tutorial 5\Crouch.js" Line="1" Column="1" />
+      <File FileName="Assets\Cartoon Soldier\Scripts\soldier\soldierMovement.js" Line="1" Column="1" />
+      <File FileName="Assets\Cartoon Soldier\Scripts\soldier\soldierAim.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial 5\Tutorial 5\Crosshair_Script.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
